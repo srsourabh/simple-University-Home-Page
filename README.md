@@ -1,1 +1,1 @@
-# simple-University-Home-Page
+# simple-University-Home-Page using HTML, CSS and JavaScript
